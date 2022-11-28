@@ -12,19 +12,19 @@ Paper: https://dl.acm.org/doi/10.1145/3477314.3507100
 
 If you find this code useful, please cite the following:
 
->@inproceedings{Pasa2022Compact,
-author = {Pasa, Luca and Navarin, Nicol\`{o} and Sperduti, Alessandro},
-title = {Compact Graph Neural Network Models for Node Classification},
-year = {2022},
-isbn = {9781450387132},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3477314.3507100},
-doi = {10.1145/3477314.3507100},
-booktitle = {Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},
-pages = {592–599},
-numpages = {8},
-keywords = {graph neural network, machine learning on graphs, deep learning, structured data, graph convolution},
-location = {Virtual Event},
-series = {SAC '22}
+>@inproceedings{Pasa2022Compact,\
+author = {Pasa, Luca and Navarin, Nicol\`{o} and Sperduti, Alessandro},\
+title = {Compact Graph Neural Network Models for Node Classification},\
+year = {2022},\
+isbn = {9781450387132},\
+publisher = {Association for Computing Machinery},\
+address = {New York, NY, USA},\
+url = {https://doi.org/10.1145/3477314.3507100},\
+doi = {10.1145/3477314.3507100},\
+booktitle = {Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},\
+pages = {592–599},\
+numpages = {8},\
+keywords = {graph neural network, machine learning on graphs, deep learning, structured data, graph convolution},\
+location = {Virtual Event},\
+series = {SAC '22}\
 }
